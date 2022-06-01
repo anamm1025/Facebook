@@ -1,0 +1,147 @@
+#hyperlink-style-button{
+      background:none;
+      border:0;
+      color:#666;
+      text-decoration:underline;
+    }
+
+    #hyperlink-style-button:hover{
+      background:none;
+      border:0;
+      color:#666;
+      text-decoration:none;
+      cursor:pointer;
+      cursor:hand;
+    }
+.statusDiv
+{
+height:auto;
+overflow:auto;
+width:inherit;
+padding:10px;
+color:grey;
+background-color:white;
+margin-top:10px;
+
+
+}
+
+.imgclass
+{
+float:left;
+}
+
+.blueee
+{
+float:left;
+color:darkblue;
+padding-top:10px;
+font-size:14px;
+}
+
+.blueName
+{
+padding-left:10px;
+float:left;
+color:darkblue;
+font-weight:bold;
+}
+
+.blueName:hover
+{
+text-decoration:underline;
+}
+
+.blueee a:hover
+{
+text-decoration:underline;
+}
+
+.likeButton
+{
+padding-top:4px;
+padding-left:4px;
+float:left;
+}
+.timeShow
+{
+float:left;
+font-size:12px;
+color:grey;
+padding:10px;
+}
+
+.statusImg
+{
+
+float:left;
+width:inherit;
+height:300px;
+}
+
+.homefooter
+{
+color:blue;
+clear:both;
+position:absolute;
+left:300px;
+bottom:0px;
+
+}
+
+.homefooter:hover
+{
+text-decoration:underline;
+}
+
+.number
+{
+float:left;
+padding-top:5px;
+}
+
+.like2
+{
+float:left;
+}
+
+
+
+a.likeButton:hover
+{
+opacity:0.6;
+}
+.commentPanel
+{
+display:none;
+float:left;
+width:inherit;
+height:auto;
+background-color: #f7f7f7;  
+border: 1px solid #cccccc;  
+color: #333333;   
+padding:10px;
+font-size:14px;
+margin-bottom:10px;
+}
+
+.smallCommentPic
+{
+float:left;
+width:30px;
+height:30px;
+}
+
+.commentBox
+{
+padding:5px;
+margin-left:5px;
+width:400px;
+color:darkgrey;
+}
+
+.commentDescription
+{
+padding-left:10px;
+float:left;
+}

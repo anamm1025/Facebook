@@ -1,0 +1,178 @@
+
+.bluebuttonRight
+{
+	background-color:#3b5998;
+	color:white;
+	float:right;
+	margin-top:5px;
+	margin-bottom:10px;
+	margin-right:10px;
+
+
+}
+.right
+{
+	float:right;
+	margin-top:5px;
+	margin-bottom:10px;
+}
+.bluesmall
+{
+	font-size: 12px;
+	color: blue;
+}
+.bluesmall:hover
+{
+text-decoration: underline;
+}
+.smallgreytext
+{
+	color:grey;
+	font-size:12px;
+	font-weight:normal;
+	padding-left:60px !important;
+	padding-right:20px;
+}
+.tcenter
+{
+	text-align:center;
+}
+.paddingn
+{
+	padding-left:50px;
+	padding-right:20px;
+}
+.padding
+{
+	padding-left:10px;
+}
+.greyfont
+{
+	color:grey;
+	font-weight:bold;
+	font-size:14px;
+}
+.textBoxStyle{
+   width:250px;
+   height:25px;
+   color:#ABABAB;
+   font-weight:50;
+   font-size:small;
+   border-color:#AFAFAF;
+   border-width:thin;
+    }
+
+.groupPanel
+{
+	font: normal 14px Tahoma,Verdana,Arial,Sans-Serif;
+	width:380;
+	padding:10px;
+	height:20px;
+	background-color: #f7f7f7;
+	color:black;
+	font-weight:bold; 
+}
+
+.disabledBackground
+{
+font:Sans-Serif;
+z-index: 999;
+width: 100%;
+height: 100%;
+top: 0;
+left: 0;
+display: none;
+position: fixed;	
+background-color: grey;
+color: #aaaaaa;
+opacity: .4;
+filter: alpha(opacity = 50);
+}
+
+.ontop {
+border:1px solid grey;
+z-index: 1000;
+width: 400px;
+height: 430px;
+top: 120px;
+left: 480px;
+display: none;
+position: fixed;	
+background-color: white;
+color: #aaaaaa;
+
+}
+#popup {
+z-index: 1000;
+width: 300px;
+height: 200px;
+position: fixed;
+color: #000000;
+background-color: #ffffff;
+/* To align popup window at the center of screen*/
+top: 50%;
+left: 50%;
+margin-top: -100px;
+margin-left: -150px;
+}
+
+#errorMsg
+{
+   color:Red; 
+   font-size:12px;  
+}
+
+
+.profLargeimg {
+display:none;
+z-index: 1000;
+width: 600px;
+height: 600px;
+position: fixed;
+color: #000000;
+background-color: #ffffff;
+top: 20%;
+left: 35%;
+margin-top: -100px;
+margin-left: -150px;
+}
+
+.profLargeimg1 {
+display:none;
+z-index: 1000;
+width: 800px;
+height: 700px;
+position: fixed;
+color: #000000;
+background-color:transparent;
+top: 20%;
+left: 35%;
+margin-top: -100px;
+margin-left: -150px;
+}
+
+.uploadPanel
+{
+background-color:#f7f7f7;
+height:40px;
+padding:5px;
+text-align:left;
+
+
+}
+
+
+.uploadPhotoButton
+{
+height:100px;
+color:darkgrey;
+font-size:18px;
+padding:10px;
+margin-top:20px;
+}
+
+
+.uploadPhotoButton:hover
+{
+background-color:#f7f7f7;
+}

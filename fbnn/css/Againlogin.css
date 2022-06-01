@@ -1,0 +1,123 @@
+body 
+{
+    background-color:White;
+}
+
+
+.Panel
+{
+    margin-top:90px;
+    margin-left:240px;
+    width:650px;
+    height:330px;
+    border: 1px solid darkgrey;
+    padding:20px;
+    
+    
+}
+
+.textBold
+{
+
+    color:Black;
+	font-weight:bold;
+	font-size:19px;
+
+}
+
+.greyline
+{
+    margin-top:5px;
+	color:lightgrey;
+	margin-bottom:0px;
+}
+
+#fbinfobox  
+{  
+    display:none;
+    background-color: #fff9d7;  
+    border: 1px solid #e2c822;  
+    color: #333333;  
+    padding: 10px;  
+    margin-top:10px;
+    margin-right:10px;
+    font-size: 13px;  
+    font-weight: bold;
+    width:620px;
+      
+}  
+.bb
+{
+    color:Black;
+    font-weight:normal;
+}
+.smallgreytext
+{
+    color:grey;
+     font-weight: bold;
+     padding-left: 110px;
+     margin-top:10px;
+     padding-top:10px;
+     font-size:13px;
+    
+}
+.graysmall
+{
+	font-size: 12px;
+	color: grey;
+}
+.bluesmall
+{
+	font-size: 12px;
+	color: blue;
+}
+
+.boxxx
+{
+    width:200px;
+}
+.footer
+{
+    position:absolute;
+    bottom:20px;
+	padding-left:150px;
+}
+
+.blueeButon
+{
+    background-color:#3b5998;
+	color:white;
+	margin-left:100px;
+	margin-top:0px;
+	
+}
+#fberrorbox  
+{  
+    display:none;
+    background-color: #ffebe8;  
+    border: 1px solid #dd3c10;  
+    color: #333333;  
+    padding: 10px;  
+    font-size: 13px;  
+    font-weight: bold;  
+}
+
+.aqua
+{
+    color:#3b5998;
+    font-weight:bold;
+    font-size:13px;
+}
+
+.simple
+{
+    color:Black;
+    font-size:13px;    
+}
+
+.smallText
+{
+	font-size:13px;
+	color: blue;
+	margin-left:100px;
+}

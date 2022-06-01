@@ -1,0 +1,121 @@
+.dataPanel
+{	
+	font-family:Arial;
+	background-color:white;
+	width:1020px;
+	height:800px;
+	margin-left:200px;
+	margin-right:100px;
+	margin-top:20px;
+	margin-bottom:4px;
+	border:1px solid darkgrey;
+	color:black;
+	text-decoration:none;
+	LINE-HEIGHT:20px;
+	
+}
+
+.fbinfobox  
+{  
+	background-color: #fff9d7;  
+	border: 1px solid #e2c822;  
+	color: #333333;  
+	padding: 10px;  
+	font-size: 12px;   
+	margin-top:70px;
+	margin-left:80px;
+	margin-right:80px;
+} 
+.allPanel
+{
+	padding-left:80px;
+	padding-right:80px;
+} 
+
+a.link
+{
+	color:darkblue;
+}
+ul
+{
+	color:darkblue;
+	font-size:17px;
+	LINE-HEIGHT:29px;
+}
+
+a.link:hover
+{
+	text-decoration:underline;
+}
+
+.dataHeading
+{
+	
+	font-weight:bold;
+	font-size:22px;
+}
+.resource
+{
+	font-weight:bold;
+	font-size:18px;
+}
+
+hr
+{
+	margin-left:80px;
+	margin-right:80px;
+	margin-top:17px;
+	color:darkgray;
+}
+
+.dataPanelleft
+{
+	margin-top:20px;
+	float:left;
+	width:392px;
+	margin-left:80px;
+	font-size:17px;
+}
+
+.smallsize
+{
+	font-size:15px;
+	color:grey;
+}
+
+.rightdataPanel
+{
+	margin-top:20px;
+	margin-left:60px;
+	float:left;
+}
+
+.lef
+{
+	float:left;
+	margin-right:10px;
+	margin-bottom:10px;
+}
+
+.smallBlueBox
+{
+	padding:10px;
+	color:grey;
+	font-size:11.5px;
+	LINE-HEIGHT:18px;
+	background-color: #eceff6;  
+    	border: 1px solid #d4dae8;  
+    	color: grey; 
+	width:380px;
+	   
+
+}
+
+.datafooter
+{
+	clear:both;
+	font-size:12px;
+	color:darkblue;
+	margin-left:200px;
+	margin-right:100px;
+}

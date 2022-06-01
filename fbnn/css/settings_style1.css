@@ -1,0 +1,291 @@
+tr:hover
+{
+	background-color: #eceff6;
+	text-decoration:none;
+}
+body
+{
+	background-color: white;
+	margin:0px;
+	font-family:"lucida grande";
+	
+	
+}
+.whitecolor
+{
+color: white;
+}
+.graysmall
+{
+	font-size: 12px;
+	color: grey;
+}
+
+.bluesmall
+{
+	font-size: 12px;
+	color: blue;
+}
+
+
+table,tr,th
+{
+	padding: 10px;
+	border-collapse:collapse;
+}
+table
+{
+	width:100%;
+	
+}
+.footer
+{
+	clear:both;
+	padding-left:300px;
+}
+
+.general
+{
+	position: absolute;
+	top: 70px;
+	left: 118px;
+}
+
+
+
+.smaller
+{
+	font-size:12px;
+	
+}
+
+.newbox
+{
+	color:grey;
+	font-size:13px;
+	font-weight:bold;
+	text-align:left;
+	
+}
+
+#namebox
+{
+	text-align:center;
+	width:800px;
+	height:240px;
+	background-color: #eceff6;
+	color:Gray;
+	border-top:solid 1px #c3c3c3;
+	display:none;
+
+}
+#usernamebox
+{
+	text-align:center;
+	width:800px;
+	height:150px;
+	background-color: #eceff6;
+	color:Gray;
+	border-top:solid 1px #c3c3c3;
+	display:none;
+
+}
+#emailbox
+{
+	text-align:center;
+	width:800px;
+	height:230px;
+	background-color: #eceff6;
+	color:Gray;
+	border-top:solid 1px #c3c3c3;
+	display:none;
+
+}
+
+#passwordbox
+{
+	text-align:center;
+	width:800px;
+	height:200px;
+	background-color: #eceff6 !important;
+	color:Gray;
+	border-top:solid 1px #c3c3c3;
+	display:none;
+
+}
+#networksbox
+{
+	text-align:center;
+	width:800px;
+	height:100px;
+	background-color: #eceff6;
+	color:Gray;
+	border-top:solid 1px #c3c3c3;
+	display:none;
+
+}
+#languagebox
+{
+	text-align:center;
+	width:800px;
+	height:100px;
+	background-color: #eceff6;
+	color:Gray;
+	border-top:solid 1px #c3c3c3;
+	display:none;
+
+}
+
+#temperaturebox
+{
+	text-align:center;
+	width:800px;
+	height:100px;
+	background-color: #eceff6;
+	color:Gray;
+	border-top:solid 1px #c3c3c3;
+	display:none;
+
+}
+
+
+.settingbox
+{
+border-top:1px solid black;
+}
+
+.settingbox,.settingbox2
+{
+	height:100px;
+	width:100%;
+	border-bottom:1px solid black;
+	padding:10px;
+	margin:20px;
+	text-align: center;
+	
+}
+.settingbox:hover,.settingbox2:hover
+{
+	background-color: #eceff6;
+	text-decoration:none;
+}
+
+
+.name_settings
+{
+	text-align:center;
+	width:800px;
+	height:270px;
+	background-color: #eceff6;
+	color:Gray;
+	border-top:solid 1px #c3c3c3;
+	display:none;
+
+
+}
+
+
+.kkk
+{
+text-align:center;
+	width:800px;
+	height:270px;
+	background-color: #eceff6;
+	color:Gray;
+	border-top:solid 1px #c3c3c3;
+	
+}
+
+.colorb
+{
+	color:black;
+	text-align:left;
+}
+.textbold
+{
+	font-weight: bold;
+	font-size:17px;
+	color: black;
+}
+
+
+#leftPanel
+{
+	float:left;
+	width:300px;
+	height:100%;
+}	
+
+
+
+
+#middlePanel
+{
+	float:left;
+	width:800px;
+	height:680px;
+	border-left:1px solid Gray;
+	border-right:1px solid Gray;
+	border-bottom:1px solid Gray;
+	padding:15px;
+}
+
+
+#fnameError
+{
+    color:Red;
+    position:absolute;
+    top:155px;
+    left:870px;
+}
+   
+   
+   #mnameError
+{
+    color:Red;
+    position:absolute;
+    top:195px;
+    left:870px;
+}
+ 
+ #lnameError
+{
+    color:Red;
+    position:absolute;
+    top:235px;
+    left:870px;
+}
+ 
+ #anameError
+{
+    color:Red;
+    position:absolute;
+    top:334px;
+    left:870px;
+}
+ 
+ 
+  #emailError
+{
+    color:Red;
+    position:absolute;
+    top:265px;
+    left:885px;
+}
+
+
+#pw1Error
+{
+    color:Red;
+    position:absolute;
+    top:310px;
+    left:855px;
+}
+
+#pw2Error
+{
+    color:Red;
+    position:absolute;
+    top:360px;
+    left:865px;
+}
